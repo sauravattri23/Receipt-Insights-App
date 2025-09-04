@@ -52,6 +52,6 @@ receipt_insights_app/
 1. **Clone the repository**
 
 ```bash
-git clone 
+git clone https://github.com/sauravattri23/receipt-insights-app.git
 cd receipt-insights-app
 python main.py
